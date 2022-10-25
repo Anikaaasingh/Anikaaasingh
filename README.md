@@ -6,7 +6,7 @@ I am Anika Singh a 2nd year Civil Engineering Undergrad at IIT BHU.
 
 
 - 🔭 I’m currently working on   Web Dev and Open Source
-- 🌱 I’m currently learning Node Js.
+- 🌱 I’m currently learning Node and Vue Js.
 - 🤔 I’m looking for help with Three Js.
 - ⚡ Fun fact: Classmate notebooks have the best fun facts.
 
