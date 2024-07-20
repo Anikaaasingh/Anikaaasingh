@@ -2,11 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-I am Anika Singh a 3rd year Civil Engineering Undergrad at IIT BHU.
+I am Anika Singh a 4th year Civil Engineering Undergrad at IIT BHU.
 
 
-- 🔭 I’m currently working on   Web Dev and Machine Learning.
-- 🌱 I’m currently learning NodeJs, Deep Learning and Computer Vision.
+- 🔭 I’m currently working on Web Dev and Machine Learning.
+- 🌱 I’m currently learning Deep Learning and Computer Vision.
 - 🤔 I’m looking for help with Three Js.
 - ⚡ Fun fact: Classmate notebooks have the best fun facts.
 
